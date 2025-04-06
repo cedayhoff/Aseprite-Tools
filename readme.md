@@ -36,7 +36,7 @@ To run them:
 1. Open Aseprite
 2. Go to **File > Scripts > Open Scripts Folder**
 3. Drop any `.lua` files here
-4. Reload scripts via **File > Scripts > Rescan scriptsi folder(or F5)**
+4. Reload scripts via **File > Scripts > Rescan scripts folder(or F5)**
 5. Run them from **File > Scripts**
 
 ---
